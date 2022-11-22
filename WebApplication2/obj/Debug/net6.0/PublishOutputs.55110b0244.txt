@@ -1,0 +1,7 @@
+C:\Users\khran\Desktop\IPR\AWS\Deploy .NET with AWS CodeDeploy\app\dotnet-CodeDeploy\app\WebApplication2.exe
+C:\Users\khran\Desktop\IPR\AWS\Deploy .NET with AWS CodeDeploy\app\dotnet-CodeDeploy\app\appsettings.Development.json
+C:\Users\khran\Desktop\IPR\AWS\Deploy .NET with AWS CodeDeploy\app\dotnet-CodeDeploy\app\appsettings.json
+C:\Users\khran\Desktop\IPR\AWS\Deploy .NET with AWS CodeDeploy\app\dotnet-CodeDeploy\app\WebApplication2.dll
+C:\Users\khran\Desktop\IPR\AWS\Deploy .NET with AWS CodeDeploy\app\dotnet-CodeDeploy\app\WebApplication2.deps.json
+C:\Users\khran\Desktop\IPR\AWS\Deploy .NET with AWS CodeDeploy\app\dotnet-CodeDeploy\app\WebApplication2.runtimeconfig.json
+C:\Users\khran\Desktop\IPR\AWS\Deploy .NET with AWS CodeDeploy\app\dotnet-CodeDeploy\app\WebApplication2.pdb

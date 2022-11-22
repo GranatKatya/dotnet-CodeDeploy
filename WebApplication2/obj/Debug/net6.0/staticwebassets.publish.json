@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "Hash": "jpvrf5GUGErydySZKDKwuCgoUoGgALyDhrDRepAG1KY=",
+  "Hash": "jHM7migBXDnrdS62AfO+u4rBmDQQiqKPncAaklu1ElA=",
   "Source": "WebApplication2",
   "BasePath": "_content/WebApplication2",
   "Mode": "Default",
-  "ManifestType": "Build",
+  "ManifestType": "Publish",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
