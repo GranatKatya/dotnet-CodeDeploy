@@ -4,8 +4,9 @@ var app = builder.Build();
 app.MapGet("/roll", () =>
 {
     var random = new Random();
-    var roll = random.Next(1, 7);
-    return roll;
+    var roll1 = random.Next(1, 7);
+    var roll2 = random.Next(1, 7);
+    return new int[] { roll1, roll2};
 });
 
 app.Run();
